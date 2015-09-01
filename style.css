@@ -2,7 +2,7 @@
 body{
 color: Black;
 font-family: 'Source Sans Pro', sans-serif;
-background-image: url(https://static.pexels.com/photos/6241/sky-sunset-red-romantic.jpg);
+background-image: linear-gradient(-90deg, #006AFF, #FF0037);;
 background-size: cover;
 text-align:center;
 }
