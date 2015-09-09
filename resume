@@ -23,12 +23,6 @@
 21       	background-color: darkMagenta; 
 22       	text-decoration:none; 
 
-  iframe{
-        width:90%;
-        height:800px;
-       margin: 0;
-       position: center;
-      }
 </style>
 <body>
 <h1> My Resume</h1>
