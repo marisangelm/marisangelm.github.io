@@ -24,7 +24,7 @@
 22       	text-decoration:none; 
 
   iframe{
-        width:70%;
+        width:90%;
         height:300px;
        margin: 0;
        position: center;
