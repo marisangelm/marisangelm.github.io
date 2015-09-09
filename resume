@@ -2,8 +2,8 @@
 <link href="stylesheet.css" rel="stylesheet">
 <style>
   iframe{
-        width:90%;
-        height:500px;
+        width:70%;
+        height:300px;
        margin: 0;
        position: center;
       }
