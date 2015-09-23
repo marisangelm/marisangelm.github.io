@@ -1,9 +1,10 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: #3CB484;
+  font-size:13px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding: 20px 10px;
   text-transform: uppercase;
+  
 }
 
 .nav li {
@@ -11,55 +12,58 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
-  height: 500px;
+  background-image:url('http://tour-vacation.com/images/vacations/travel-90.jpg');
+  height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Oswald', sans-serif;
 }
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:150px;
+  font-family: 'Oswald', sans-serif;
 }
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-size: 72px;  
+  font-family: 'Old Standard TT', serif;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size: 23px;
   color: #fff;
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #1B3E50;
+  font-family: 'Old Standard TT', serif;
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
   font-weight: bold;
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #DDC398;
 }
 
 .neighborhood-guides{
     background-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
+    border-bottom: 1px solid #4B6B24;
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
+    color: #EDD7C9;
+    font-size: 30px;
 
 }
 
 .neighborhood-guides p{
-     font-size: 15px;
-    margin-bottom: 13px;    
+     font-size: 24px;
+    margin-bottom: 20px;    
 }
