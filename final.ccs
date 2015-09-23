@@ -12,7 +12,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://tour-vacation.com/images/vacations/travel-90.jpg');
+  background-image:url('http://travelshows.com/files/Home%20Page%20Backgrounds/taj-mahal2.jpg');
   height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
