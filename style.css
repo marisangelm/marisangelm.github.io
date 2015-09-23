@@ -1,23 +1,72 @@
 
-body{
-color: Black;
-font-family: 'Source Sans Pro', sans-serif;
-background-image: linear-gradient(-90deg, #006AFF, #FF0037);;
-background-size: cover;
-text-align:center;
+    body{
+       color: #fff;
+       font-family: 'Source Sans Pro', sans-serif;
+       text-align:center;
+       ;
+    }
+      h1{
+        color: #aa3f44;
+        font-family: 'Montserrat', sans-serif;
+        text-align:center;
+        text-shadow: #222222 1px 1px 0;
+      }
+      nav a{
+      	color: #b3a299;
+      	text-decoration:none;
+      	text-align: center;
+      	text-shadow: #222222 1px 1px 0;
+      }
+      
+      nav {
+      	color: #b3a299;
+      	text-decoration:none;
+      	text-align: center;
+      	text-shadow: #222222 1px 1px 0;
+      }
+      nav a:hover {
+      	color:#66a5c4;
+      	text-shadow: #222222 1px 1px 0;
+      }
+     
+     nav a:visited {
+     	color:#164e70;
+     	text-shadow: #222222 1px 1px 0;
+     }
+      
+      iframe {
+      	align: center; 
+      }
+         .paragraph {
+      	text-shadow: #222222 1px 1px 0;
+      	color:#FFFF99;
+      }
+      .container {
+    position: relative;
+    background:##8FBC8F;
+    overflow: hidden;
 }
-h1{
-color: BurntUmber;
-font-family: 'Montserrat', sans-serif;
-text-align:center;
-}
-
-nav {
-  color: #FFF;
-  text-decoration: none;
-  background-color: #F00;
-}
-
-nav a:visited{
-  color: #FFF;
-}
+.container:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url(https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+      }
+      a {
+      	text-shadow: #222222 1px 1px 0;
+      }
+    
+  </style>
