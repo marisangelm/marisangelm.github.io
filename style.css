@@ -4,7 +4,7 @@
        font-family: 'Source Sans Pro', sans-serif;
        text-align:center;
        background-image:url(https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c);
-       ;
+       background-size:cover;
     }
       h1{
         color: #aa3f44;
@@ -41,31 +41,8 @@
          .paragraph {
       	text-shadow: #222222 1px 1px 0;
       	color:#FFFF99;
-      }
-      .container {
-    position: relative;
-    background:##8FBC8F;
-    overflow: hidden;
-}
-.container:before {
-    content: ' ';
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-    opacity: 0.6;
-    background-image: url(https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c);
-    background-repeat: no-repeat;
-    background-position: 50% 0;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
-      }
+         }
+
       a {
       	text-shadow: #222222 1px 1px 0;
       }
