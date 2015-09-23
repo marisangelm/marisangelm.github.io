@@ -15,6 +15,7 @@
       }
       nav a{
       	color: #b3a299;
+      	font-family: 'Source Sans Pro', sans-serif;
       	text-decoration:none;
       	text-align: center;
       	text-shadow: #222222 1px 1px 0;
@@ -22,6 +23,7 @@
       
       nav {
       	color: #b3a299;
+      	font-family: 'Source Sans Pro', sans-serif;
       	text-decoration:none;
       	text-align: center;
       	text-shadow: #222222 1px 1px 0;
@@ -40,11 +42,13 @@
       	align: center; 
       }
          .paragraph {
+        font-family: 'Source Sans Pro', sans-serif;
       	text-shadow: #222222 1px 1px 0;
       	color:#FFFF99;
          }
 
       a {
+          font-family: 'Source Sans Pro', sans-serif;
       	text-shadow: #222222 1px 1px 0;
       }
     
